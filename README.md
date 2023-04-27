@@ -1,2 +1,2 @@
-# Hexlet_exercises_1
+# Hexlet_exercises_2
  
